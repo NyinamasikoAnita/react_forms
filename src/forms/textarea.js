@@ -6,7 +6,7 @@ import { useState } from "react";
 
 function MyTextarea() {
     const [textarea, setTextarea] = useState(
-      "The content of a textarea goes in the value attribute"
+      
     );
   
     const handleChange = (event) => {
