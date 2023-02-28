@@ -41,6 +41,5 @@ function MyForm() {
     </div>
     )
   }
-//   const root = ReactDOM.createRoot(document.getElementById('root'));
-//   root.render(<MyForm />);
+  
 export default MyForm;
