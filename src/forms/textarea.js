@@ -5,9 +5,7 @@ import { useState } from "react";
 
 
 function MyTextarea() {
-    const [textarea, setTextarea] = useState(
-      
-    );
+    const [textarea, setTextarea] = useState();
   
     const handleChange = (event) => {
       setTextarea(event.target.value)
